@@ -1,0 +1,11 @@
+{
+  "name": "Rowberry Shiraz",
+  "image": "https://raw.githubusercontent.com/collinsherriff/bored-grapes/main/10.jpg",
+  "description": "Aromas of Black Plums, cherries, cinnamon spice and pepper followed by a touch of Oak, a well integrated tannin structure and a long, lingering aftertaste. A perfect match with grilled beef or lamb, a rich casserole, tasty pasta dishes and well-aged Cheeses",
+  "attributes": [
+    {
+      "trait_type": "Alc",
+      "value": "14% Vol"
+    }
+  ]
+}

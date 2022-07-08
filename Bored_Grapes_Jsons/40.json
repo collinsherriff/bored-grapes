@@ -1,0 +1,11 @@
+{
+  "name": "Du Preez Pollas Red",
+  "image": "https://raw.githubusercontent.com/collinsherriff/bored-grapes/main/40.jpg",
+  "description": "Abundance of ripe fruit with hints of coffee and dark chocolate on the nose. Soft and well balanced palate, with a touch of oak.",
+  "attributes": [
+    {
+      "trait_type": "Alc",
+      "value": "13% Vol"
+    }
+  ]
+}
