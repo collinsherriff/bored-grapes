@@ -5,7 +5,7 @@
   "attributes": [
     {
       "trait_type": "Alc",
-      "value": "13% Vol"
+      "value": "14% Vol"
     },
     {
       "trait_type": "Volume(ML)",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Vintage",
-      "value": "2020"
+      "value": "2018"
     }
   ]
 }
