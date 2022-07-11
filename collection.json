@@ -3,5 +3,5 @@
   "description": "Wine Vault Test.",
   "name": "Hennie WIne Vault",
   "seller_fee_basis_points": "1000",
-  "fee_recipient": "0x25375E1DaFa37a31069d323a37A6f93eaF356123"
+  "fee_recipient": "0xc073Cf3940C116562FBa21d690FF2121A75844FD"
 }
